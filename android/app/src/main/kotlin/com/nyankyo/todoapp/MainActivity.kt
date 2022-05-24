@@ -1,4 +1,4 @@
-package com.example.fire_todo
+package com.nyankyo.todoapp
 
 import io.flutter.embedding.android.FlutterActivity
 
