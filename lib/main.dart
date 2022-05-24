@@ -24,6 +24,7 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
 class MyHomePage extends StatelessWidget {
   const MyHomePage({Key? key}) : super(key: key);
   @override
@@ -87,6 +88,7 @@ class MyHomePage extends StatelessWidget {
     );
   }
 }
+
 showBottomSheet(
     BuildContext context, bool isUpdate, DocumentSnapshot? documentSnapshot) {
   // Added the isUpdate argument to check if our item has been updated
